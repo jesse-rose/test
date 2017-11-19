@@ -1,3 +1,5 @@
+// test git setup
+
 console.log("hello Jesse !!!");
 
 let i = 0;
@@ -8,8 +10,11 @@ let r1 = things.find(v => v > 3);
 
 console.log(r1);
 
+
 let r2 = things.filter(v => v > 4);
 
 console.log(`results: ${r2}`);
+
+
 
 
