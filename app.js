@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 // test git setup
 
-=======
->>>>>>> dfd5a085b305c1f45c04c0b8c0529f38ea53353f
 console.log("hello Jesse !!!");
 
 let i = 0;
@@ -13,10 +10,6 @@ let r1 = things.find(v => v > 3);
 
 console.log(r1);
 
-<<<<<<< HEAD
-
-=======
->>>>>>> dfd5a085b305c1f45c04c0b8c0529f38ea53353f
 let r2 = things.filter(v => v > 4);
 
 console.log(`results: ${r2}`);
